@@ -1,0 +1,10 @@
+{
+  "name": "Hello-Chrome-Extensiton",
+  "version": "1.0",
+  "description": "my first extenstion",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.JPG"
+  },
+  "manifest_version": 3
+}
