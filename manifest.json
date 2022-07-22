@@ -4,7 +4,7 @@
   "description": "my first extenstion",
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "icon.JPG"
+    "default_icon": "icon.jpeg"
   },
   "manifest_version": 3
 }
