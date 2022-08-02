@@ -1,9 +1,9 @@
 {
-  "name": "Hello-Chrome-Extensiton",
+  "name": "Chill_work_bete",
   "version": "1.0",
-  "description": "my first extenstion",
+  "description": "bete ver",
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "index.html",
     "default_icon": "icon.jpeg"
   },
   "manifest_version": 3
